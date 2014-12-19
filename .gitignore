@@ -1,0 +1,9 @@
+*.log
+._*
+.DS_Store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+node_modules
